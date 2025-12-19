@@ -12,6 +12,7 @@
 - Category filter
 - Branching commands
 - Remote commands
+- Merge conflict resolved
 
 ## Структура
 - `index.html` — інтерфейс
