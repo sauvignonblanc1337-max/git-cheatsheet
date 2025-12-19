@@ -9,4 +9,10 @@
   {"category":"basic","title":"git restore","desc":"Скасовує зміни у файлі","example":"git restore <file>"},
   {"category":"basic","title":"git rm","desc":"Видаляє файл і додає зміни в staging","example":"git rm <file>"},
   {"category":"basic","title":"git mv","desc":"Перейменовує/переміщує файл","example":"git mv old new"}
+  {"category":"branching","title":"git branch","desc":"Показує/створює гілки","example":"git branch"},
+  {"category":"branching","title":"git checkout -b","desc":"Створює і переходить на нову гілку","example":"git checkout -b feature/name"},
+  {"category":"branching","title":"git switch","desc":"Перемикає гілки","example":"git switch main"},
+  {"category":"branching","title":"git merge","desc":"Зливає гілку в поточну","example":"git merge feature/name"},
+  {"category":"branching","title":"git rebase","desc":"Переносить коміти на іншу базу","example":"git rebase main"},
+  {"category":"branching","title":"git branch -d","desc":"Видаляє локальну гілку","example":"git branch -d feature/name"}
 ]
