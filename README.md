@@ -10,6 +10,7 @@
 - Basic commands
 - Search
 - Category filter
+- Remote commands
 
 ## Структура
 - `index.html` — інтерфейс
