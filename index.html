@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Git Cheat Sheet</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <header class="header">
+    <h1>Git Cheat Sheet</h1>
+    <p>Інтерактивна шпаргалка з Git-командами</p>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <input id="search" type="text" placeholder="Пошук команди або опису..." />
+      <select id="category">
+        <option value="all">Усі категорії</option>
+        <option value="basic">Basic</option>
+        <option value="branching">Branching</option>
+        <option value="remote">Remote</option>
+      </select>
+    </section>
+
+    <section id="list" class="list"></section>
+    <p id="empty" class="empty hidden">Нічого не знайдено.</p>
+  </main>
+
+  <footer class="footer">
+    <small>© 2025 — Єременко Валентин</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

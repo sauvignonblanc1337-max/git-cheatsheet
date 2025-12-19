@@ -1,0 +1,5 @@
+[
+  {"category":"basic","title":"git status","desc":"Показує стан репозиторію","example":"git status"},
+  {"category":"basic","title":"git add .","desc":"Додає всі зміни до staging","example":"git add ."},
+  {"category":"basic","title":"git commit -m","desc":"Створює коміт зі повідомленням","example":"git commit -m \"feat: message\""}
+]
