@@ -15,4 +15,9 @@
   {"category":"branching","title":"git merge","desc":"Зливає гілку в поточну","example":"git merge feature/name"},
   {"category":"branching","title":"git rebase","desc":"Переносить коміти на іншу базу","example":"git rebase main"},
   {"category":"branching","title":"git branch -d","desc":"Видаляє локальну гілку","example":"git branch -d feature/name"}
+  {"category":"remote","title":"git remote -v","desc":"Показує віддалені репозиторії","example":"git remote -v"},
+  {"category":"remote","title":"git fetch","desc":"Завантажує зміни без злиття","example":"git fetch"},
+  {"category":"remote","title":"git pull","desc":"Fetch + merge з віддаленого","example":"git pull"},
+  {"category":"remote","title":"git push","desc":"Відправляє коміти на віддалений","example":"git push origin main"},
+  {"category":"remote","title":"git push -u","desc":"Задає upstream для гілки","example":"git push -u origin feature/name"}
 ]

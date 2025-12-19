@@ -11,6 +11,7 @@
 - Search
 - Category filter
 - Branching commands
+- Remote commands
 
 ## Структура
 - `index.html` — інтерфейс
