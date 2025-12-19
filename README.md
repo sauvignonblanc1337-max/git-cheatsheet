@@ -10,6 +10,7 @@
 - Basic commands
 - Search
 - Category filter
+- Branching commands
 
 ## Структура
 - `index.html` — інтерфейс
