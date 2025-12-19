@@ -10,3 +10,4 @@ body { font-family: Arial, sans-serif; margin: 0; background: #f6f6f6; color: #2
 .footer { padding: 18px; text-align: center; opacity: .8; }
 .empty { text-align: center; padding: 20px; }
 .hidden { display: none; }
+/* minor ui tweak */
