@@ -9,4 +9,9 @@
   {"category":"basic","title":"git restore","desc":"Скасовує зміни у файлі","example":"git restore <file>"},
   {"category":"basic","title":"git rm","desc":"Видаляє файл і додає зміни в staging","example":"git rm <file>"},
   {"category":"basic","title":"git mv","desc":"Перейменовує/переміщує файл","example":"git mv old new"}
+  {"category":"remote","title":"git remote -v","desc":"Показує віддалені репозиторії","example":"git remote -v"},
+  {"category":"remote","title":"git fetch","desc":"Завантажує зміни без злиття","example":"git fetch"},
+  {"category":"remote","title":"git pull","desc":"Fetch + merge з віддаленого","example":"git pull"},
+  {"category":"remote","title":"git push","desc":"Відправляє коміти на віддалений","example":"git push origin main"},
+  {"category":"remote","title":"git push -u","desc":"Задає upstream для гілки","example":"git push -u origin feature/name"}
 ]
