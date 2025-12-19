@@ -2,4 +2,11 @@
   {"category":"basic","title":"git status","desc":"Показує стан репозиторію","example":"git status"},
   {"category":"basic","title":"git add .","desc":"Додає всі зміни до staging","example":"git add ."},
   {"category":"basic","title":"git commit -m","desc":"Створює коміт зі повідомленням","example":"git commit -m \"feat: message\""}
+  {"category":"basic","title":"git init","desc":"Ініціалізує репозиторій","example":"git init"},
+  {"category":"basic","title":"git clone","desc":"Клонує віддалений репозиторій","example":"git clone <url>"},
+  {"category":"basic","title":"git diff","desc":"Показує різницю між змінами","example":"git diff"},
+  {"category":"basic","title":"git log --oneline","desc":"Коротка історія комітів","example":"git log --oneline"},
+  {"category":"basic","title":"git restore","desc":"Скасовує зміни у файлі","example":"git restore <file>"},
+  {"category":"basic","title":"git rm","desc":"Видаляє файл і додає зміни в staging","example":"git rm <file>"},
+  {"category":"basic","title":"git mv","desc":"Перейменовує/переміщує файл","example":"git mv old new"}
 ]
